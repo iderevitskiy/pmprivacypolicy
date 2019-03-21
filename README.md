@@ -1,5 +1,6 @@
 # pmprivacypolicy
 PRIVACY POLICY FOR APPS
+
 This Privacy Policy covers how we collect, use, disclose, transfer and store information received about you and/or information received about your computing device through your use of the Apps.
 By using our Apps you specifically consent to the collection, use and disclosure of your information (including personal information) in accordance with this Privacy Policy. We may receive and/or you may be asked to provide your information (including personal information) any time you are in contact with us or use the Applications. We may also use your information (including personal information) together with other information to provide and improve products, services, content, and advertising.
 
@@ -57,6 +58,6 @@ When information is no longer needed, we shall delete it using reasonable measur
 CHANGES TO OUR PRIVACY POLICY
 We will occasionally update this Privacy Policy as necessary to protect our users, furnish current information, and respond to legal and technical changes.
 PRIVACY QUESTIONS
-If you have questions or concerns about Privacy Policy or information processing, please contact us through partymonter.game@gmail.com
+If you have questions or concerns about Privacy Policy or information processing, please contact us through partymonster.game@gmail.com
 
 Privacy Policy, v1.0, updated March 2019
